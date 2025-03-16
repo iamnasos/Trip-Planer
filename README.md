@@ -1,2 +1,2 @@
 # Trip-Planer
-The implementation of a "Trip Planner" application was carried out to cover all the needs of a travel agency (management of staff and customers). Data management was done in MySQL (using triggers and stored procedures), and the graphical interface was developed using Java's JDBC API .
+Developed a comprehensive Trip Planner application designed to meet the needs of a travel agency, including staff and customer management. Data management is handled using MySQL (with triggers and stored procedures), while the graphical user interface is built with Java's API JDBC.
